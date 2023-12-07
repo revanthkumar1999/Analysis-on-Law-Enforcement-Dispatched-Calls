@@ -20,6 +20,14 @@ San Francisco's  911 emergency historical call data, which includes records from
 ### Real-Time.csv:
 This set of data is updated every 10 minutes with the most recent 48-hour window time of dispatched calls, both open and stopped. In particular, it covers unresolved calls that have been open for more than 48 hours, giving an in-depth analysis of critical responses.
 
+
+
+
+### Architecture Flow
+
+![Architecture Flow](https://github.com/revanthkumar1999/Analysis-on-UK-Traffic-Accidents/blob/main/ELT%20Flow/Architecture%20Flow.png?raw=true)
+
+
 ### Data Extraction using lambda Function into S3 Bucket
 <https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/Lambda%20Function>
 
@@ -45,8 +53,3 @@ This set of data is updated every 10 minutes with the most recent 48-hour window
 
 
 
-
-
-### Architecture Flow
-
-![Architecture Flow](https://github.com/revanthkumar1999/Analysis-on-UK-Traffic-Accidents/blob/main/ELT%20Flow/Architecture%20Flow.png?raw=true)
