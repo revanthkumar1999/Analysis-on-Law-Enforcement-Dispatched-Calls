@@ -1,0 +1,12 @@
+apache-airflow
+boto3
+snowflake-connector-python
+snowflake-sqlalchemy
+dbt-core
+dbt-snowflake
+requests
+urllib3
+apache-airflow-providers-snowflake
+jinja2
+apache-airflow-providers-amazon
+apache-airflow-providers-dbt-cloud
