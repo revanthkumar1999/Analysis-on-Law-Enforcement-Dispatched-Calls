@@ -15,7 +15,7 @@ It includes the caller's phone number, the day and time the call was received, t
 
 ### Content
 ### Closed Call.csv:
-San Francisco's  911 emergency call data, which includes records from March 2016 to the present date which are updated frequently.Each entry here shows a distinct emergency service call that was made. Details such as the call's priority, location, dispatch, and arrival time are kept track of.
+San Francisco's  911 emergency historical call data, which includes records from March 2016 to the present date which are updated frequently.Each entry here shows a distinct emergency service call that was made. Details such as the call's priority, location, dispatch, and arrival time are kept track of.
 
 ### Real-Time.csv:
 This set of data is updated every 10 minutes with the most recent 48-hour window time of dispatched calls, both open and stopped. In particular, it covers unresolved calls that have been open for more than 48 hours, giving an in-depth analysis of critical responses.
@@ -24,6 +24,8 @@ This set of data is updated every 10 minutes with the most recent 48-hour window
 
 
 
+
+### ELT
 
 
 
