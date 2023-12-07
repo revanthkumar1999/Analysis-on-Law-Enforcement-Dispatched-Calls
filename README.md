@@ -24,18 +24,16 @@ This set of data is updated every 10 minutes with the most recent 48-hour window
 <https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/Lambda%20Function>
 
 ### Data Loading and Transformations using Snowflake and DBT
-Stage Creation for real-time and archive data using snowflake.
-
+### Snowflake 
 <https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/Snowflake>
 
-### Raw And Curation layers
+### DBT
 <https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/DBT/Models>
-
-### Star Schema Data Model
-<https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/DBT/Models/Data%20Models>
-
+ 
 ### Data Pipeline Orchestration using Apache Airflow 
 <https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/AWS%20Air%20flow>
+
+### Visualisations
 
 ### Recommendations using ML Algorithms
 <https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/Recommendations>
