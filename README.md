@@ -25,6 +25,7 @@ This set of data is updated every 10 minutes with the most recent 48-hour window
 
 ### Data Loading and Transformations using Snowflake and DBT
 Stage Creation for real-time and archive data using snowflake.
+
 <https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/Snowflake>
 
 ### Raw And Curation layers
