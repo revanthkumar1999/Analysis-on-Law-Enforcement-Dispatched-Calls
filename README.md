@@ -1,8 +1,9 @@
 # Analysis On Law Enforcement 911 Dispatched Calls For Service 
  
-## This repository is for data 225 group project
+### This repository is for data 225 group project
 
-Using cloud-based AWS services like S3 Bucket, Lambda Function, VPC and Snowflake for data storage, processing, and analytics, this project aims to build a data warehouse that will store and handle historical and real-time 911 call data from San Francisco. Apache airflow,DBT is used to put together the whole data link. Data visualization with in-depth analysis is used to find trends and patterns in dispatched calls that  provide solutions to improve public safety, response methods and time,effectiveness of law enforcement operations, insight into how this might improve police, fire, and medical services and offer data-driven recommendations for making communities safer.
+Using cloud-based AWS services like S3 Bucket, Lambda Function, VPC and Snowflake for data storage, processing, and analytics, this project aims to build a data warehouse that will store and handle historical and real-time 911 call data from San Francisco. 
+Apache airflow,DBT is used to put together the whole data link.Data visualization with in-depth analysis is used to find trends and patterns in dispatched calls that  provide solutions to improve public safety, response methods and time,effectiveness of law enforcement operations, insight into how this might improve police, fire, and medical services and offer data-driven recommendations for making communities safer.
  
 ## Link for the dataset
 https://datasf.gitbook.io/datasf-dataset-explainers/law-enforcement-dispatched-calls-for-service
