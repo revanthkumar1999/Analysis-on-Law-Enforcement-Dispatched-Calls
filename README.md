@@ -21,13 +21,25 @@ San Francisco's  911 emergency historical call data, which includes records from
 This set of data is updated every 10 minutes with the most recent 48-hour window time of dispatched calls, both open and stopped. In particular, it covers unresolved calls that have been open for more than 48 hours, giving an in-depth analysis of critical responses.
 
 
+### ELT Flow
+<https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/ELT%20Flow>
 
 
+### Data Extraction using lambda Function into S3 Bucket
+<https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/Lambda%20Function>
 
+### Data Loading and Transformations using Snowflake and DBT
+Stage Creation for real-time and archive data using snowflake.
+<https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/Snowflake>
 
-### ELT
+### Raw And Curations layer
+<https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/DBT/Models>
 
+### Star Schema Data Model
+<https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/DBT/Models/Data%20Models>
 
+### Data Pipeline Orchestration using Apache Airflow 
+<https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/AWS%20Air%20flow>
 
 ### Recommendations
 <https://github.com/revanthkumar1999/Analysis-on-Law-Enforcement-Dispatched-Calls/tree/main/Recommendations>
