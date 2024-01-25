@@ -1,2 +1,4 @@
 *.py linguist-detectable=true
 *.sql linguist-detectable=true
+*.aws linguist-detectable=true
+*.etl linguist-detectable=true
