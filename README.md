@@ -1,6 +1,4 @@
 # Analysis On Law Enforcement 911 Dispatched Calls For Service 
- 
-### This repository is for data 225 group project
 
 Using cloud-based AWS services like S3 Bucket, Lambda Function, VPC and Snowflake for data storage, processing, and analytics, this project aims to build a data warehouse that will store and handle historical and real-time 911 call data from San Francisco. 
 
